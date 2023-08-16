@@ -10,6 +10,10 @@ sudo git clone https://github.com/majdyousef07/tools-for-kali
 
 
 
+cd tools-for-kali
+
+
+
 sudo chmod +x install_tools.sh
 
 
